@@ -4,3 +4,6 @@ dog
 goldfish
 buffalo
 rabbit
+gerbil
+hamster
+
