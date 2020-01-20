@@ -6,4 +6,5 @@ buffalo
 rabbit
 gerbil
 hamster
-
+frog
+snake
