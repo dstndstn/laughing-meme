@@ -6,4 +6,6 @@ buffalo
 rabbit
 gerbil
 hamster
-
+worm
+snail
+crawfish
