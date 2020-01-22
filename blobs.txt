@@ -1,0 +1,3 @@
+yellow blob
+blue blob
+glue blob
