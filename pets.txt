@@ -1,4 +1,3 @@
-tardigrade
 cat
 dog
 goldfish
